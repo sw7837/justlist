@@ -1,0 +1,20 @@
+{
+    "name":"Stablecoin List",
+    "tokens":[
+        {
+            "symbol":"EURT",
+            "address":"TYpLfwCy4u8PmgFyLjh1oL4TBP1zH9jqUs",
+            "chainId":1,
+            "decimals":18,
+            "name":"EuroToken",
+            "logoURI":"https://static.tronscan.org/production/upload/logo/new/TYpLfwCy4u8PmgFyLjh1oL4TBP1zH9jqUs.jpeg"
+        }
+    ],
+    "logoURI":"https://static.tronscan.org/production/upload/logo/new/TYpLfwCy4u8PmgFyLjh1oL4TBP1zH9jqUs.jpeg",
+    "version":{
+        "patch":1,
+        "major":0,
+        "minor":0
+    },
+    "timestamp":1717002102000
+}
